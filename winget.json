@@ -29,6 +29,12 @@
 				},
 				{
 					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
+                },
+                {
+					"PackageIdentifier" : "Google.EarthPro"
+				},
+				{
+					"PackageIdentifier" : "Oracle.MySQLShell"
 				},
 				{
 					"PackageIdentifier" : "Logitech.GHUB"
@@ -100,6 +106,21 @@
 					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
+					"PackageIdentifier" : "Parsec.Parsec"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.RustRover.EAP"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "RamenSoftware.Windhawk"
+				},
+				{
+					"PackageIdentifier" : "JetBrains.Writerside.EAP"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
@@ -116,9 +137,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
-				},
-				{
-					"PackageIdentifier" : "ElectronicArts.EADesktop"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
@@ -175,7 +193,7 @@
 					"PackageIdentifier" : "Google.CloudSDK"
 				},
 				{
-					"PackageIdentifier" : "JetBrains.Writerside.EAP"
+					"PackageIdentifier" : "Anaconda.Miniconda3"
 				},
 				{
 					"PackageIdentifier" : "Postman.Postman"
@@ -193,7 +211,7 @@
 					"PackageIdentifier" : "Zoom.Zoom.EXE"
 				},
 				{
-					"PackageIdentifier" : "Vercel.Hyper"
+					"PackageIdentifier" : "ajeetdsouza.zoxide"
 				},
 				{
 					"PackageIdentifier" : "Obsidian.Obsidian"
@@ -248,9 +266,6 @@
 				},
 				{
 					"PackageIdentifier" : "9PGCV4V3BK4W"
-				},
-				{
-					"PackageIdentifier" : "9P34M9F6S7TG"
 				},
 				{
 					"PackageIdentifier" : "9NBLGGH4VVNH"
