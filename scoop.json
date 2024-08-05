@@ -1,0 +1,534 @@
+{
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2024-08-05T17:29:37+09:00",
+            "Manifests": 1337
+        },
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2024-08-05T19:07:01+09:00",
+            "Manifests": 2053
+        },
+        {
+            "Name": "versions",
+            "Source": "https://github.com/ScoopInstaller/Versions",
+            "Updated": "2024-08-05T17:35:02+09:00",
+            "Manifests": 468
+        },
+        {
+            "Name": "java",
+            "Source": "https://github.com/ScoopInstaller/Java",
+            "Updated": "2024-08-04T10:16:05+09:00",
+            "Manifests": 280
+        },
+        {
+            "Name": "cudnn-versions",
+            "Source": "https://github.com/shmishtopher/cudnn-versions",
+            "Updated": "2022-11-30T09:10:50+09:00",
+            "Manifests": 203
+        },
+        {
+            "Name": "dorado",
+            "Source": "https://github.com/chawyehsu/dorado",
+            "Updated": "2024-08-05T09:13:36+09:00",
+            "Manifests": 256
+        },
+        {
+            "Name": "im-select",
+            "Source": "https://github.com/daipeihust/im-select",
+            "Updated": "2023-07-10T07:57:55+09:00",
+            "Manifests": 1
+        },
+        {
+            "Name": "retools",
+            "Source": "https://github.com/TheCjw/scoop-retools.git",
+            "Updated": "2024-07-08T12:31:19+09:00",
+            "Manifests": 23
+        }
+    ],
+    "apps": [
+        {
+            "Name": "7zip",
+            "Updated": "2024-06-25T10:27:14.3053707+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "24.07"
+        },
+        {
+            "Name": "7zip19.00-helper",
+            "Updated": "2024-02-22T21:10:49.1739864+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "19.00"
+        },
+        {
+            "Name": "apktool",
+            "Updated": "2024-02-22T21:10:55.1364776+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "2.9.3"
+        },
+        {
+            "Name": "arduino-cli",
+            "Updated": "2024-08-05T19:10:01.8710444+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.0.3"
+        },
+        {
+            "Name": "bat",
+            "Updated": "2024-02-22T21:11:03.3578202+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.24.0"
+        },
+        {
+            "Name": "bzip2",
+            "Updated": "2024-02-22T21:11:04.8048919+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.0.8.0"
+        },
+        {
+            "Name": "cmake",
+            "Updated": "2024-06-25T10:28:02.6579621+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "3.29.6"
+        },
+        {
+            "Name": "corretto11-jdk",
+            "Updated": "2024-05-14T12:10:28.4286846+09:00",
+            "Source": "java",
+            "Info": "",
+            "Version": "11.0.23.9.1"
+        },
+        {
+            "Name": "corretto15-jdk",
+            "Updated": "2024-02-22T23:24:35.3843082+09:00",
+            "Source": "java",
+            "Info": "",
+            "Version": "15.0.2.7.1"
+        },
+        {
+            "Name": "corretto17-jdk",
+            "Updated": "2024-05-14T12:14:10.9655204+09:00",
+            "Source": "java",
+            "Info": "",
+            "Version": "17.0.11.9.1"
+        },
+        {
+            "Name": "corretto8-jdk",
+            "Updated": "2024-05-14T12:15:19.6861089+09:00",
+            "Source": "java",
+            "Info": "",
+            "Version": "8.412.08.1"
+        },
+        {
+            "Name": "croc",
+            "Updated": "2024-06-25T10:28:06.7210559+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "10.0.8"
+        },
+        {
+            "Name": "curl",
+            "Updated": "2024-06-25T10:28:11.4962209+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "8.8.0_2"
+        },
+        {
+            "Name": "dark",
+            "Updated": "2024-05-14T12:15:37.9390188+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "3.14"
+        },
+        {
+            "Name": "dex2jar",
+            "Updated": "2024-02-22T23:26:14.5361153+09:00",
+            "Source": "retools",
+            "Info": "",
+            "Version": "2.1-nightly-28"
+        },
+        {
+            "Name": "dua",
+            "Updated": "2024-05-14T12:15:40.8710359+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "2.29.0"
+        },
+        {
+            "Name": "duf",
+            "Updated": "2024-02-22T21:11:42.5786424+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.8.1"
+        },
+        {
+            "Name": "fd",
+            "Updated": "2024-05-14T12:15:44.7498406+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "10.1.0"
+        },
+        {
+            "Name": "ffmpeg",
+            "Updated": "2024-06-25T10:35:31.7233564+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "7.0.1"
+        },
+        {
+            "Name": "fzf",
+            "Updated": "2024-06-25T10:35:33.9990432+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.53.0"
+        },
+        {
+            "Name": "gcc",
+            "Updated": "2024-03-28T03:15:44.6760043+09:00",
+            "Source": null,
+            "Info": "Install failed",
+            "Version": null
+        },
+        {
+            "Name": "gdb",
+            "Updated": "2024-02-22T21:14:22.2252153+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "14.1"
+        },
+        {
+            "Name": "goodbyedpi",
+            "Updated": "2024-02-22T21:14:23.6198791+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.2.2"
+        },
+        {
+            "Name": "gradle",
+            "Updated": "2024-06-25T10:38:20.3186063+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "8.8"
+        },
+        {
+            "Name": "grep",
+            "Updated": "2024-02-22T21:15:54.7783138+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "3.11"
+        },
+        {
+            "Name": "hex-editor-neo",
+            "Updated": "2024-02-22T23:26:14.7314474+09:00",
+            "Source": null,
+            "Info": "Install failed",
+            "Version": null
+        },
+        {
+            "Name": "im-select",
+            "Updated": "2024-02-22T23:37:09.9087708+09:00",
+            "Source": "im-select",
+            "Info": "",
+            "Version": "1.0.1"
+        },
+        {
+            "Name": "innounp",
+            "Updated": "2024-02-22T21:15:56.1221745+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.50"
+        },
+        {
+            "Name": "jd-gui",
+            "Updated": "2024-02-22T23:37:11.4476807+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "1.6.6"
+        },
+        {
+            "Name": "jq",
+            "Updated": "2024-02-22T21:15:57.7873388+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.7.1"
+        },
+        {
+            "Name": "llvm-mingw",
+            "Updated": "2024-06-25T10:45:18.8928942+09:00",
+            "Source": "dorado",
+            "Info": "",
+            "Version": "18.1.8-20240619"
+        },
+        {
+            "Name": "localsend",
+            "Updated": "2024-05-14T12:24:21.1930682+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "1.14.0"
+        },
+        {
+            "Name": "lsd",
+            "Updated": "2024-05-14T12:24:24.4851189+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.1.2"
+        },
+        {
+            "Name": "lua",
+            "Updated": "2024-07-11T10:04:06.8275746+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "5.4.2"
+        },
+        {
+            "Name": "mingw",
+            "Updated": "2024-03-28T03:13:10.1289437+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "13.2.0-rt_v11-rev1"
+        },
+        {
+            "Name": "neovim",
+            "Updated": "2024-06-25T10:45:33.993778+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.10.0"
+        },
+        {
+            "Name": "neovim-nightly",
+            "Updated": "2024-02-22T23:37:53.6674684+09:00",
+            "Source": "versions",
+            "Info": "",
+            "Version": "0.10.0-2415"
+        },
+        {
+            "Name": "ninja",
+            "Updated": "2024-05-14T12:26:10.0420346+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.12.1"
+        },
+        {
+            "Name": "nodejs",
+            "Updated": "2024-05-14T12:26:36.5345145+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "22.1.0"
+        },
+        {
+            "Name": "nodejs20",
+            "Updated": "2024-07-30T16:11:24.2815257+09:00",
+            "Source": "versions",
+            "Info": "",
+            "Version": "20.16.0"
+        },
+        {
+            "Name": "notepadplusplus",
+            "Updated": "2024-06-25T10:45:39.050695+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "8.6.8"
+        },
+        {
+            "Name": "nvm",
+            "Updated": "2024-07-30T16:08:55.1031001+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.1.12"
+        },
+        {
+            "Name": "openssl",
+            "Updated": "2024-06-25T12:43:19.1052591+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "3.3.1"
+        },
+        {
+            "Name": "pandoc",
+            "Updated": "2024-06-25T12:43:38.2561963+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "3.2.1"
+        },
+        {
+            "Name": "poetry",
+            "Updated": "2024-05-14T12:34:47.7313174+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.8.3"
+        },
+        {
+            "Name": "python310",
+            "Updated": "2024-02-22T23:38:26.5431119+09:00",
+            "Source": "versions",
+            "Info": "",
+            "Version": "3.10.11"
+        },
+        {
+            "Name": "raspberry-pi-imager",
+            "Updated": "2024-02-22T23:38:30.5710919+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "1.8.5"
+        },
+        {
+            "Name": "rclone",
+            "Updated": "2024-06-25T12:43:49.2690032+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.67.0"
+        },
+        {
+            "Name": "resource-hacker",
+            "Updated": "2024-02-22T23:38:34.3840839+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "5.2.7"
+        },
+        {
+            "Name": "ripgrep",
+            "Updated": "2024-02-22T21:29:53.3325637+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "14.1.0"
+        },
+        {
+            "Name": "rufus",
+            "Updated": "2024-06-25T12:43:51.7445446+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "4.5"
+        },
+        {
+            "Name": "rust",
+            "Updated": "2024-06-25T12:48:00.8348259+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.79.0"
+        },
+        {
+            "Name": "scoop-search",
+            "Updated": "2024-02-22T21:32:52.0717153+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.4.1"
+        },
+        {
+            "Name": "scrcpy",
+            "Updated": "2024-06-26T10:28:32.8564357+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "2.4"
+        },
+        {
+            "Name": "starship",
+            "Updated": "2024-06-25T12:48:04.2171953+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.19.0"
+        },
+        {
+            "Name": "stylua",
+            "Updated": "2024-02-22T21:32:55.7600571+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.20.0"
+        },
+        {
+            "Name": "syncthing",
+            "Updated": "2024-06-25T12:48:10.5456408+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.27.8"
+        },
+        {
+            "Name": "tabby",
+            "Updated": "2024-06-25T12:48:58.9103512+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "1.0.208"
+        },
+        {
+            "Name": "touch",
+            "Updated": "2024-02-22T21:32:59.3418299+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.2018.07.25"
+        },
+        {
+            "Name": "tre-command",
+            "Updated": "2024-02-22T23:38:48.3728296+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.4.0"
+        },
+        {
+            "Name": "vcredist2022",
+            "Updated": "2024-06-25T12:49:19.4644743+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "14.40.33810.0"
+        },
+        {
+            "Name": "vivetool",
+            "Updated": "2024-02-22T21:33:00.8917776+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.3.3"
+        },
+        {
+            "Name": "wireshark",
+            "Updated": "2024-06-25T12:50:04.9195945+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "4.2.5"
+        },
+        {
+            "Name": "xmlstarlet",
+            "Updated": "2024-04-04T10:19:56.016989+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.6.1"
+        },
+        {
+            "Name": "yarn",
+            "Updated": "2024-07-30T16:19:31.912714+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "1.22.22"
+        },
+        {
+            "Name": "youtube-music",
+            "Updated": "2024-06-25T12:51:53.8480495+09:00",
+            "Source": "extras",
+            "Info": "",
+            "Version": "3.3.12"
+        },
+        {
+            "Name": "zoxide",
+            "Updated": "2024-02-22T21:33:02.4686982+09:00",
+            "Source": "main",
+            "Info": "",
+            "Version": "0.9.4"
+        },
+        {
+            "Name": "zulu17-jdk",
+            "Updated": "2024-06-25T12:53:18.8539128+09:00",
+            "Source": "java",
+            "Info": "",
+            "Version": "17.50.19"
+        }
+    ],
+    "config": {
+        "scoop_branch": "master",
+        "scoop_repo": "https://github.com/ScoopInstaller/Scoop"
+    }
+}
