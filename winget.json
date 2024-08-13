@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-08-06T00:42:56.947-00:00",
+	"CreationDate" : "2024-08-13T17:32:19.688-00:00",
 	"Sources" : 
 	[
 		{
@@ -29,12 +29,6 @@
 				},
 				{
 					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
-                },
-                {
-					"PackageIdentifier" : "Google.EarthPro"
-				},
-				{
-					"PackageIdentifier" : "Oracle.MySQLShell"
 				},
 				{
 					"PackageIdentifier" : "Logitech.GHUB"
@@ -196,10 +190,16 @@
 					"PackageIdentifier" : "Anaconda.Miniconda3"
 				},
 				{
+					"PackageIdentifier" : "JetBrains.Writerside.EAP"
+				},
+				{
 					"PackageIdentifier" : "Postman.Postman"
 				},
 				{
 					"PackageIdentifier" : "Resilio.ResilioSync"
+				},
+				{
+					"PackageIdentifier" : "Rustlang.Rustup"
 				},
 				{
 					"PackageIdentifier" : "JetBrains.Toolbox"
