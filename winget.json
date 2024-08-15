@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-08-13T17:32:19.688-00:00",
+	"CreationDate" : "2024-08-15T15:51:53.541-00:00",
 	"Sources" : 
 	[
 		{
@@ -50,6 +50,9 @@
 				},
 				{
 					"PackageIdentifier" : "SSHFS-Win.SSHFS-Win"
+				},
+				{
+					"PackageIdentifier" : "GitHub.cli"
 				},
 				{
 					"PackageIdentifier" : "PDFgear.PDFgear"
@@ -121,9 +124,6 @@
 					"PackageIdentifier" : "Chocolatey.Chocolatey"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x86"
 				},
 				{
@@ -131,6 +131,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
+				},
+				{
+					"PackageIdentifier" : "ElectronicArts.EADesktop"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
@@ -164,6 +167,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.22000"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
 					"PackageIdentifier" : "Bitwarden.Bitwarden"
